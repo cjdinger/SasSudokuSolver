@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver", "SudokuSolver.csproj", "{D3D5F397-9B7B-407B-A0AE-5051D6D74269}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D3D5F397-9B7B-407B-A0AE-5051D6D74269}.Debug.ActiveCfg = Debug|.NET
+		{D3D5F397-9B7B-407B-A0AE-5051D6D74269}.Debug.Build.0 = Debug|.NET
+		{D3D5F397-9B7B-407B-A0AE-5051D6D74269}.Release.ActiveCfg = Release|.NET
+		{D3D5F397-9B7B-407B-A0AE-5051D6D74269}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
